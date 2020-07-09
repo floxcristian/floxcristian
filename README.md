@@ -1,5 +1,5 @@
 # Cristian Flores
-Hi, I'm Cristian (she/her)—a senior computer science enginner at ANY working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Arica, CH. 🙌 I'm a huge nerd/geek. 💕
+Hi, I'm Cristian (he/him)—a senior computer science enginner at ANY working on [Sponsors](https://github.com/sponsors) to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces. I live in Arica, CH. 🙌 I'm a huge nerd/geek. 💕
 
 ## My values
 💖 Safety and trust<br>
