@@ -14,6 +14,3 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 ## Get in touch
 - Twitter: https://twitter.com/floxcristian
 - Personal site: https://floxcristian.dev/
-
-## Arica orgs to donate
-- [Any](https://www.any.com)
